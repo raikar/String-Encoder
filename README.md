@@ -1,3 +1,3 @@
 # String-Encoder
 
-Python String encoder/decoder
+A Simple Python String encoder/decoder

@@ -1,6 +1,6 @@
 use stringEncode\Encode;
 
-$str    = "you rocks!";
+$str    = "You Rocks!";
 $encode = new Encode;
 $encode->detect($str);
 $newstr = $encode->convert($str);
